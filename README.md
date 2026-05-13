@@ -40,4 +40,5 @@ This project analyzes customer churn patterns and business insights using Power 
 - dashboard.png
 
 ## Dashboard Preview
+<img width="1358" height="704" alt="Churn dashboard" src="https://github.com/user-attachments/assets/9ae009bb-15a3-4b8a-b073-cb9d3438e17b" />
 
